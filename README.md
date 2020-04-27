@@ -1,13 +1,13 @@
 API para IQOption
-[! [Status da compilação] (https://travis-ci.org/n1nj4z33/iqoptionapi.svg?branch=master)] (https://travis-ci.org/n1nj4z33/iqoptionapi)
-[! [Status da documentação] (https://readthedocs.org/projects/iqoptionapi/badge/?version=latest)] (http://iqoptionapi.readthedocs.io/?badge=latest)
-[! [Versão do PyPI] (https://badge.fury.io/py/iqoptionapi.svg)] (https://badge.fury.io/py/iqoptionapi)
+[![Status da compilação](https://travis-ci.org/n1nj4z33/iqoptionapi.svg?branch=master)](https://travis-ci.org/n1nj4z33/iqoptionapi)
+[![Status da documentação](https://readthedocs.org/projects/iqoptionapi/badge/?version=latest)](http://iqoptionapi.readthedocs.io/?badge=latest)
+[![Versão do PyPI](https://badge.fury.io/py/iqoptionapi.svg)] (https://badge.fury.io/py/iqoptionapi)
 
-Um empacotador python amigável em torno da [IQ Option API] (https://iqoption.com).
+Um empacotador python amigável em torno da [IQ Option API](https://iqoption.com).
 
-Informações sobre o uso básico que você pode encontrar em [Wiki] (https://github.com/n1nj4z33/iqoptionapi/wiki)
+Informações sobre o uso básico que você pode encontrar em [Wiki](https://github.com/n1nj4z33/iqoptionapi/wiki)
 
-Documentação do Sphinx gerada automaticamente, você pode encontrar [aqui] (http://iqoptionapi.readthedocs.io/).
+Documentação do Sphinx gerada automaticamente, você pode encontrar [aqui](http://iqoptionapi.readthedocs.io/).
 
 ### Instalação
 `` ``
