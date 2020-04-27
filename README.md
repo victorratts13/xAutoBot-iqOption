@@ -10,10 +10,11 @@ Informações sobre o uso básico que você pode encontrar em [Wiki](https://git
 Documentação do Sphinx gerada automaticamente, você pode encontrar [aqui](http://iqoptionapi.readthedocs.io/).
 
 ### Instalação
-`` ``
+```
 instalação do pip --upgrade git + https: //github.com/n1nj4z33/iqoptionapi.git@master
-`` ``
-Referência para a modificação acima: [StackoverFlow](https://stackoverflow.com/questions/51039974/error- while-calling-function-in-python3-5)
+```
+Referência para a modificação acima: [StackoverFlow](https://stackoverflow.com/questions/51039974/error-while-calling-function-in-python3-5)
+
 ### Um Pequeno exemplo
 ```python
     from iqoptionapi.api import IQOptionAPI
