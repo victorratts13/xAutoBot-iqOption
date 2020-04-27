@@ -1,7 +1,7 @@
-API para IQOption
+# API para IQOption
 [![Status da compilação](https://travis-ci.org/n1nj4z33/iqoptionapi.svg?branch=master)](https://travis-ci.org/n1nj4z33/iqoptionapi)
 [![Status da documentação](https://readthedocs.org/projects/iqoptionapi/badge/?version=latest)](http://iqoptionapi.readthedocs.io/?badge=latest)
-[![Versão do PyPI](https://badge.fury.io/py/iqoptionapi.svg)] (https://badge.fury.io/py/iqoptionapi)
+[![Versão do PyPI](https://badge.fury.io/py/iqoptionapi.svg)](https://badge.fury.io/py/iqoptionapi)
 
 Um empacotador python amigável em torno da [IQ Option API](https://iqoption.com).
 
@@ -13,7 +13,7 @@ Documentação do Sphinx gerada automaticamente, você pode encontrar [aqui](htt
 `` ``
 instalação do pip --upgrade git + https: //github.com/n1nj4z33/iqoptionapi.git@master
 `` ``
-Referência para a modificação acima: [StackoverFlow] (https://stackoverflow.com/questions/51039974/error- while-calling-function-in-python3-5)
+Referência para a modificação acima: [StackoverFlow](https://stackoverflow.com/questions/51039974/error- while-calling-function-in-python3-5)
 ### Um Pequeno exemplo
 ```python
     from iqoptionapi.api import IQOptionAPI
