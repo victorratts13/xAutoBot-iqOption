@@ -11,7 +11,7 @@ Documentação do Sphinx gerada automaticamente, você pode encontrar [aqui](htt
 
 ### Instalação
 ```
-instalação do pip --upgrade git + https: //github.com/n1nj4z33/iqoptionapi.git@master
+instalação do pip --upgrade git+https://github.com/victorratts13/iqoptionapi.git@master
 ```
 Referência para a modificação acima: [StackoverFlow](https://stackoverflow.com/questions/51039974/error-while-calling-function-in-python3-5)
 
